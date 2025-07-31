@@ -1,2 +1,12 @@
-# AI-for-Quality-ChatBot
-Your smart assistant for quality management – powered by AI to identify issues, suggest improvements, and drive excellence.
+---
+title: AIChatbot
+emoji: ⚡
+colorFrom: yellow
+colorTo: red
+sdk: gradio
+sdk_version: 5.38.2
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
